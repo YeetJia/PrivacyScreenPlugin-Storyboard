@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-privacyscreen-storyboard-yeetjia",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Secures your app from displaying a screenshot in task switchers under Android and iOS. Keeps sensitive information private.",
   "cordova": {
     "id": "cordova-plugin-privacyscreen-storyboard-yeetjia",
